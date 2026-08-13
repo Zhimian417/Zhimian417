@@ -2,7 +2,7 @@
 
 # Hi, I'm Darren Zhang 👋
 
-### Computer Science · Financial Mathematics & Statistics
+### Computer Science & Financial Mathematics and Statistics
 
 **University of Sydney 🇦🇺**
 
